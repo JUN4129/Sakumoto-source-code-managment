@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	cout << "Hello GitHub";
+	cout << "Hello Universe";
 
 	cin.get();
 		return 0;
